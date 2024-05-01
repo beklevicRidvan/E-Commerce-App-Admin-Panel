@@ -19,3 +19,11 @@ Bu proje, Firebase Firestore, get_it ve provider paketlerini kullanarak gelişti
 5. Firebase Auth ve Firestore'u etkinleştirin ve gerekli izinleri verin.
 6. Projenizi başlatmak için Android Studio veya Visual Studio Code gibi bir IDE kullanarak `main.dart` dosyasını çalıştırın.
 
+## Admin Paneli Görüntüleri
+
+![Admin Ekranı 1](https://github.com/beklevicRidvan/E-Commerce-App-Admin-Panel/blob/main/admin_image/admin1.png?raw=true)
+![Admin Ekranı 2](https://github.com/beklevicRidvan/E-Commerce-App-Admin-Panel/blob/main/admin_image/admin2.png?raw=true)
+![Admin Ekranı 3](https://github.com/beklevicRidvan/E-Commerce-App-Admin-Panel/blob/main/admin_image/admin3.png?raw=true)
+![Admin Ekranı 4](https://github.com/beklevicRidvan/E-Commerce-App-Admin-Panel/blob/main/admin_image/admin4.png?raw=true)
+![Admin Ekranı 5](https://github.com/beklevicRidvan/E-Commerce-App-Admin-Panel/blob/main/admin_image/admin5.png?raw=true)
+![Admin Ekranı 6](https://github.com/beklevicRidvan/E-Commerce-App-Admin-Panel/blob/main/admin_image/admin6.png?raw=true)
